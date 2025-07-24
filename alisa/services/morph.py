@@ -3,7 +3,7 @@ from typing import List
 
 morph = pymorphy3.MorphAnalyzer()
 
-def get_surname_forms(surname: str) -> List[str]:
+def get_surname_forms(surname):
     parsed = morph.parse(surname)[0]
     cases = ['nomn', 'gent', 'datv', 'accs', 'ablt', 'loct']
     forms = set()
