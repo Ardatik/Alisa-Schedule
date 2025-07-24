@@ -1,0 +1,197 @@
+{
+    "data": [
+        {
+            "id": 400001,
+            "number": 1,
+            "start_time": "08:00:00",
+            "end_time": "09:20:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 30,
+                "name": "Физика",
+                "short_name": "Физика"
+            },
+            "place": {
+                "id": 20,
+                "name": "507А",
+                "size": 25
+            },
+            "date": "2025-05-20",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 800,
+                    "name": "22/1",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 60,
+                    "short_name": "Смирнов А.А.",
+                    "full_name": "Смирнов Алексей Алексеевич"
+                }
+            ]
+        },
+        {
+            "id": 400002,
+            "number": 2,
+            "start_time": "09:30:00",
+            "end_time": "10:50:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 35,
+                "name": "Информатика",
+                "short_name": "Информатика"
+            },
+            "place": {
+                "id": 20,
+                "name": "507А",
+                "size": 25
+            },
+            "date": "2025-05-20",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 801,
+                    "name": "23/1",
+                    "size": 0
+                },
+                {
+                    "id": 802,
+                    "name": "23/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 61,
+                    "short_name": "Кузнецов П.П.",
+                    "full_name": "Кузнецов Павел Петрович"
+                }
+            ]
+        },
+        {
+            "id": 400003,
+            "number": 3,
+            "start_time": "11:10:00",
+            "end_time": "12:30:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 40,
+                "name": "Химия",
+                "short_name": "Химия"
+            },
+            "place": {
+                "id": 20,
+                "name": "507А",
+                "size": 25
+            },
+            "date": "2025-05-21",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 803,
+                    "name": "24/1",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 62,
+                    "short_name": "Федоров Д.Д.",
+                    "full_name": "Федоров Дмитрий Дмитриевич"
+                }
+            ]
+        },
+        {
+            "id": 400004,
+            "number": 4,
+            "start_time": "12:40:00",
+            "end_time": "14:00:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 45,
+                "name": "Биология",
+                "short_name": "Биология"
+            },
+            "place": {
+                "id": 20,
+                "name": "507А",
+                "size": 25
+            },
+            "date": "2025-05-22",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 804,
+                    "name": "25/1",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 63,
+                    "short_name": "Морозов А.А.",
+                    "full_name": "Морозов Андрей Андреевич"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "last_change": {
+            "timestamp": "2025-01-28T10:15:00.000000",
+            "user": {
+                "id": 133,
+                "person": {
+                    "id": 133
+                }
+            }
+        },
+        "semester_id": 6,
+        "semester_faculty": null,
+        "week": null,
+        "start_date": "2025-02-02",
+        "end_date": "2025-06-14",
+        "timeline": [
+            "2023-09-01"
+        ]
+    },
+    "status": "AVAILABLE"
+}

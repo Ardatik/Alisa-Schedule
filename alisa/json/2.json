@@ -1,0 +1,566 @@
+{
+    "data": [
+        {
+            "id": 263905,
+            "number": 1,
+            "start_time": "08:00:00",
+            "end_time": "09:20:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 5,
+                "name": "Математический анализ",
+                "short_name": "Математический анализ"
+            },
+            "place": {
+                "id": 9,
+                "name": "307Н",
+                "size": 15
+            },
+            "date": "2025-05-20",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 655,
+                    "name": "21/1",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 259534,
+            "number": 2,
+            "start_time": "09:30:00",
+            "end_time": "10:50:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 492,
+                "name": "Введение в специальность",
+                "short_name": "Введение в специальность"
+            },
+            "place": {
+                "id": 2,
+                "name": "303Н",
+                "size": 70
+            },
+            "date": "2025-05-20",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 650,
+                    "name": "14/1",
+                    "size": 0
+                },
+                {
+                    "id": 651,
+                    "name": "14/2",
+                    "size": 0
+                },
+                {
+                    "id": 652,
+                    "name": "14А/1",
+                    "size": 0
+                },
+                {
+                    "id": 704,
+                    "name": "14А/2",
+                    "size": 0
+                },
+                {
+                    "id": 912,
+                    "name": "14/3",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 256669,
+            "number": 3,
+            "start_time": "11:10:00",
+            "end_time": "12:30:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 5,
+                "name": "Математический анализ",
+                "short_name": "Математический анализ"
+            },
+            "place": {
+                "id": 1,
+                "name": "308Н",
+                "size": 90
+            },
+            "date": "2025-05-20",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 644,
+                    "name": "12/1",
+                    "size": 0
+                },
+                {
+                    "id": 645,
+                    "name": "12/2",
+                    "size": 0
+                },
+                {
+                    "id": 646,
+                    "name": "13/1",
+                    "size": 0
+                },
+                {
+                    "id": 647,
+                    "name": "13/2",
+                    "size": 0
+                },
+                {
+                    "id": 648,
+                    "name": "13А/1",
+                    "size": 0
+                },
+                {
+                    "id": 649,
+                    "name": "13А/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 263886,
+            "number": 1,
+            "start_time": "08:00:00",
+            "end_time": "09:20:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 21,
+                "name": "Комплексный анализ",
+                "short_name": "Комплексный анализ"
+            },
+            "place": {
+                "id": 9,
+                "name": "307Н",
+                "size": 15
+            },
+            "date": "2025-05-21",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 656,
+                    "name": "21/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 263656,
+            "number": 2,
+            "start_time": "09:30:00",
+            "end_time": "10:50:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 21,
+                "name": "Комплексный анализ",
+                "short_name": "Комплексный анализ"
+            },
+            "place": {
+                "id": 4,
+                "name": "505А",
+                "size": 50
+            },
+            "date": "2025-05-21",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 655,
+                    "name": "21/1",
+                    "size": 0
+                },
+                {
+                    "id": 656,
+                    "name": "21/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 256685,
+            "number": 3,
+            "start_time": "11:10:00",
+            "end_time": "12:30:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 5,
+                "name": "Математический анализ",
+                "short_name": "Математический анализ"
+            },
+            "place": {
+                "id": 2,
+                "name": "303Н",
+                "size": 70
+            },
+            "date": "2025-05-21",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 644,
+                    "name": "12/1",
+                    "size": 0
+                },
+                {
+                    "id": 645,
+                    "name": "12/2",
+                    "size": 0
+                },
+                {
+                    "id": 646,
+                    "name": "13/1",
+                    "size": 0
+                },
+                {
+                    "id": 647,
+                    "name": "13/2",
+                    "size": 0
+                },
+                {
+                    "id": 648,
+                    "name": "13А/1",
+                    "size": 0
+                },
+                {
+                    "id": 649,
+                    "name": "13А/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 263935,
+            "number": 4,
+            "start_time": "12:40:00",
+            "end_time": "14:00:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 21,
+                "name": "Комплексный анализ",
+                "short_name": "Комплексный анализ"
+            },
+            "place": {
+                "id": 9,
+                "name": "307Н",
+                "size": 15
+            },
+            "date": "2025-05-21",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 655,
+                    "name": "21/1",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 258811,
+            "number": 1,
+            "start_time": "08:00:00",
+            "end_time": "09:20:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 492,
+                "name": "Введение в специальность",
+                "short_name": "Введение в специальность"
+            },
+            "place": {
+                "id": 9,
+                "name": "307Н",
+                "size": 15
+            },
+            "date": "2025-05-22",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 912,
+                    "name": "14/3",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 258842,
+            "number": 2,
+            "start_time": "09:30:00",
+            "end_time": "10:50:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 492,
+                "name": "Введение в специальность",
+                "short_name": "Введение в специальность"
+            },
+            "place": {
+                "id": 9,
+                "name": "307Н",
+                "size": 15
+            },
+            "date": "2025-05-22",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 650,
+                    "name": "14/1",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 258834,
+            "number": 3,
+            "start_time": "11:10:00",
+            "end_time": "12:30:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 4,
+                "name": "Лабораторная",
+                "short_name": "ЛР",
+                "color": "#d9cff3",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 492,
+                "name": "Введение в специальность",
+                "short_name": "Введение в специальность"
+            },
+            "place": {
+                "id": 9,
+                "name": "307Н",
+                "size": 15
+            },
+            "date": "2025-05-22",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 651,
+                    "name": "14/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        },
+        {
+            "id": 263854,
+            "number": 4,
+            "start_time": "12:40:00",
+            "end_time": "14:00:00",
+            "is_remotely": false,
+            "is_elective": false,
+            "type": {
+                "id": 1,
+                "name": "Лекция",
+                "short_name": "ЛК",
+                "color": "#FBB162",
+                "all_day": false
+            },
+            "discipline": {
+                "id": 5,
+                "name": "Математический анализ",
+                "short_name": "Математический анализ"
+            },
+            "place": {
+                "id": 4,
+                "name": "505А",
+                "size": 50
+            },
+            "date": "2025-05-22",
+            "theme": null,
+            "status": 2,
+            "groups": [
+                {
+                    "id": 655,
+                    "name": "21/1",
+                    "size": 0
+                },
+                {
+                    "id": 656,
+                    "name": "21/2",
+                    "size": 0
+                }
+            ],
+            "teachers": [
+                {
+                    "id": 49,
+                    "short_name": "Мавроди Н.Н.",
+                    "full_name": "Мавроди Николай Николаевич"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "last_change": {
+            "timestamp": "2025-01-27T14:02:44.187777",
+            "user": {
+                "id": 132,
+                "person": {
+                    "id": 132
+                }
+            }
+        },
+        "semester_id": 6,
+        "semester_faculty": null,
+        "week": null,
+        "start_date": "2025-02-02",
+        "end_date": "2025-06-14",
+        "timeline": [
+            "2023-09-01"
+        ]
+    },
+    "status": "AVAILABLE"
+}
